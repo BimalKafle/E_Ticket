@@ -16,7 +16,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\E_Ticketing.DataLayer\E_Ticketing.DataLayer.csproj" />
-    <ProjectReference Include="..\WebProjectCore\E_Ticketing.DataLayer.csproj" />
   </ItemGroup>
 
 </Project>
